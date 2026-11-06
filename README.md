@@ -1,4 +1,4 @@
-Functional Programming – Laboratory Work 2
+Functional Programming - Laboratory Work 2
 
 Student ID: st84995
 Programming Language: Scala
